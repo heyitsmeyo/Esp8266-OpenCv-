@@ -11,8 +11,8 @@
 
 #include<ESP8266WiFi.h> 
 
-char* ssid = "TP-LINK_4D691A";
-char* password = "02538826800";
+char* ssid = "";
+char* password = "";
 
 
 WiFiServer server(3030);
@@ -38,7 +38,6 @@ while (WiFi.status() != WL_CONNECTED){
   server.begin();
   Serial.print("\n Server started");
 }
-// the loop function runs over and over again forever
 void loop() {
 
   WiFiClient  client = server.available() ;
@@ -56,5 +55,5 @@ void loop() {
     }
     client.stop();
   }
-                  // Wait for two seconds (to demonstrate the active low LED)
+                  
 }
