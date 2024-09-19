@@ -7,11 +7,11 @@ Before running the project , make sure you have the required libraries :  Opencv
 
 To Install these libraries on linux , run these commands : 
 
-# Sudo apt update 
+Sudo apt update 
 
-# Pip3 install opencv-python 
+Pip3 install opencv-python 
 
-# Pip3 install Pillow 
+Pip3 install Pillow 
 
 # Pip3 install numpy 
 
