@@ -13,7 +13,7 @@ To Install these libraries on linux , run these commands :
 
     Pip3 install Pillow 
 
-Pip3 install numpy 
+    Pip3 install numpy 
 
 
 
