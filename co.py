@@ -1,7 +1,7 @@
 import socket 
 
 
-host = "192.168.1.104"
+host = ""
 port = 3030 
 
 def send(y) :
