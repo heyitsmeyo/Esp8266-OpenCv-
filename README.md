@@ -13,7 +13,7 @@ Pip3 install opencv-python
 
 Pip3 install Pillow 
 
-# Pip3 install numpy 
+Pip3 install numpy 
 
 
 
