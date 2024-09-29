@@ -5,6 +5,9 @@ The esp8266 acts as a server as it receives data from the user wirelessly.
 
 Before running the project , make sure you have the required libraries :  Opencv , Pillow and numpy 
 
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/bb7eeb49-f4a9-4a5e-92ce-e9b23912227e">
+
+
 To Install these libraries on linux , run these commands : 
 
     Sudo apt update 
