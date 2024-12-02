@@ -20,3 +20,9 @@ To Install these libraries on linux , run these commands :
 
 
 
+# if you like the project , you can donate us for more : 
+
+    https://ko-fi.com/heyitsmeyo
+
+
+
